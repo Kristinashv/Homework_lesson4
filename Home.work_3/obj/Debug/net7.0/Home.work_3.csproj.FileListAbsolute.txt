@@ -1,0 +1,14 @@
+C:\Users\Кристина\C#\Seminar\Home.work_3\obj\Debug\net7.0\Home.work_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кристина\C#\Seminar\Home.work_3\obj\Debug\net7.0\Home.work_3.AssemblyInfoInputs.cache
+C:\Users\Кристина\C#\Seminar\Home.work_3\obj\Debug\net7.0\Home.work_3.AssemblyInfo.cs
+C:\Users\Кристина\C#\Seminar\Home.work_3\obj\Debug\net7.0\Home.work_3.csproj.CoreCompileInputs.cache
+C:\Users\Кристина\C#\Seminar\Home.work_3\bin\Debug\net7.0\Home.work_3.exe
+C:\Users\Кристина\C#\Seminar\Home.work_3\bin\Debug\net7.0\Home.work_3.deps.json
+C:\Users\Кристина\C#\Seminar\Home.work_3\bin\Debug\net7.0\Home.work_3.runtimeconfig.json
+C:\Users\Кристина\C#\Seminar\Home.work_3\bin\Debug\net7.0\Home.work_3.dll
+C:\Users\Кристина\C#\Seminar\Home.work_3\bin\Debug\net7.0\Home.work_3.pdb
+C:\Users\Кристина\C#\Seminar\Home.work_3\obj\Debug\net7.0\Home.work_3.dll
+C:\Users\Кристина\C#\Seminar\Home.work_3\obj\Debug\net7.0\refint\Home.work_3.dll
+C:\Users\Кристина\C#\Seminar\Home.work_3\obj\Debug\net7.0\Home.work_3.pdb
+C:\Users\Кристина\C#\Seminar\Home.work_3\obj\Debug\net7.0\Home.work_3.genruntimeconfig.cache
+C:\Users\Кристина\C#\Seminar\Home.work_3\obj\Debug\net7.0\ref\Home.work_3.dll
