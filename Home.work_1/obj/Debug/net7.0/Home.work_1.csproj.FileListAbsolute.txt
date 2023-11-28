@@ -1,0 +1,14 @@
+C:\Users\Кристина\C#\Seminar\Home.work_1\obj\Debug\net7.0\Home.work_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кристина\C#\Seminar\Home.work_1\obj\Debug\net7.0\Home.work_1.AssemblyInfoInputs.cache
+C:\Users\Кристина\C#\Seminar\Home.work_1\obj\Debug\net7.0\Home.work_1.AssemblyInfo.cs
+C:\Users\Кристина\C#\Seminar\Home.work_1\obj\Debug\net7.0\Home.work_1.csproj.CoreCompileInputs.cache
+C:\Users\Кристина\C#\Seminar\Home.work_1\bin\Debug\net7.0\Home.work_1.exe
+C:\Users\Кристина\C#\Seminar\Home.work_1\bin\Debug\net7.0\Home.work_1.deps.json
+C:\Users\Кристина\C#\Seminar\Home.work_1\bin\Debug\net7.0\Home.work_1.runtimeconfig.json
+C:\Users\Кристина\C#\Seminar\Home.work_1\bin\Debug\net7.0\Home.work_1.dll
+C:\Users\Кристина\C#\Seminar\Home.work_1\bin\Debug\net7.0\Home.work_1.pdb
+C:\Users\Кристина\C#\Seminar\Home.work_1\obj\Debug\net7.0\Home.work_1.dll
+C:\Users\Кристина\C#\Seminar\Home.work_1\obj\Debug\net7.0\refint\Home.work_1.dll
+C:\Users\Кристина\C#\Seminar\Home.work_1\obj\Debug\net7.0\Home.work_1.pdb
+C:\Users\Кристина\C#\Seminar\Home.work_1\obj\Debug\net7.0\Home.work_1.genruntimeconfig.cache
+C:\Users\Кристина\C#\Seminar\Home.work_1\obj\Debug\net7.0\ref\Home.work_1.dll
